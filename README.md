@@ -1,0 +1,2 @@
+# tinyregistry-go
+Python script
